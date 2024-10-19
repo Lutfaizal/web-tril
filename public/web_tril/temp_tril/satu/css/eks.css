@@ -1,0 +1,140 @@
+.header-top {
+  background: ;
+}
+
+.header-top:after,
+.header-top-right::after {
+  background: ;
+}
+
+.header-area,
+.mobile-menu,
+.mobile-menu-nav,
+.main-menu ul li ul {
+  background: !important;
+}
+
+.header-area.two .main-menu nav > ul > li > a,
+.main-menu nav ul li ul li a,
+.mobile-menu-nav ul li a,
+.mobile-menu-nav ul li a i,
+.mobile-menu-nav a.closebtn,
+.mobile-menu-nav ul li i {
+  color: !important;
+}
+
+.mobile-menu-nav a.closebtn,
+.mobile-menu-nav ul li,
+.mobile-menu-nav ul li i {
+  border-color: !important;
+}
+
+/*body*/
+
+.cn-content .blog-details-area {
+  background: ;
+}
+
+.cn-content .blog-details-area .about-content h2 span {
+  color: ;
+}
+
+.cn-content .blog-details-area .about-content p {
+  color: ;
+}
+
+.cn-content .subscribe-area {
+  background: ;
+}
+
+.cn-content .subscribe-area .blog-details .blog-details-content h2,
+.cn-content .subscribe-area .blog-details .link-terkait h3 span,
+.cn-content .subscribe-area .blog-details .boxinfo .title2 a,
+.cn-content .subscribe-area .section-title h2,
+.cn-content .subscribe-area .course-content h3,
+.cn-content .subscribe-area .notice-left-wrapper h3,
+.cn-content .subscribe-area .single-notice-left h4 {
+  color: ;
+}
+
+.cn-content .subscribe-area .course-content .default-btn {
+  background: ;
+}
+
+.cn-content .subscribe-area .course-content {
+  box-shadow: 0px 0px 6px 0px;
+}
+
+.cn-content .subscribe-area .blog-details .boxcontent p,
+.cn-content .subscribe-area .blog-details .link-terkait ul li,
+.cn-content .subscribe-area .blog-details .link-terkait ul li a,
+.cn-content .subscribe-area .blog-details .blog-details-content p,
+.cn-content .subscribe-area .blog-details .blog-details-content p a,
+.cn-content .subscribe-area .course-content p,
+.cn-content .subscribe-area .course-content .default-btn,
+.cn-content .subscribe-area .single-notice-left p,
+.cn-content .subscribe-area .blog-details .boxcontent,
+.cn-content .subscribe-area .blog-details .boxcontent table,
+.cn-content .subscribe-area .blog-details .boxcontent table h2 span {
+  color: ;
+}
+
+.cn-content .notice-area {
+  background: ;
+}
+
+.cn-content .notice-area .blog-details .blog-details-content h2,
+.cn-content .notice-area .blog-details .link-terkait h3 span,
+.cn-content .notice-area .blog-details .boxinfo .title2 a,
+.cn-content .notice-area .section-title h2,
+.cn-content .notice-area .course-content h3,
+.cn-content .notice-area .notice-left-wrapper h3,
+.cn-content .notice-area .single-notice-left h4 {
+  color: ;
+}
+
+.cn-content .notice-area .course-content .default-btn {
+  background: ;
+}
+
+.cn-content .notice-area .course-content {
+  box-shadow: 0px 0px 6px 0px;
+}
+
+.cn-content .notice-area .blog-details .boxcontent p,
+.cn-content .notice-area .blog-details .link-terkait ul li,
+.cn-content .notice-area .blog-details .link-terkait ul li a,
+.cn-content .notice-area .blog-details .blog-details-content p,
+.cn-content .notice-area .blog-details .blog-details-content p a,
+.cn-content .notice-area .course-content p,
+.cn-content .notice-area .course-content .default-btn,
+.cn-content .notice-area .single-notice-left p,
+.cn-content .notice-area .blog-details .boxcontent,
+.cn-content .notice-area .blog-details .boxcontent table,
+.cn-content .notice-area .blog-details .boxcontent table h2 span {
+  color: ;
+}
+
+.subscribe-area-footer {
+  background: ;
+}
+
+.subscribe-area-footer .single-widget ul li,
+.subscribe-area-footer .single-widget ul li a,
+.subscribe-area-footer p,
+.subscribe-area-footer .single-widget h3 {
+  color: !important;
+}
+
+.subscribe-area-footer .single-widget h3::after,
+.subscribe-area-footer .single-widget h3::before {
+  background: !important;
+}
+
+.footer-bottom {
+  background: ;
+}
+
+.footer-bottom p {
+  color: !important;
+}
